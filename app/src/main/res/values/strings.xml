@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Life Cycle</string>
+    <string name="btn_press_here_for_going_to_b">Press here for going to B</string>
+    <string name="btn_press_back_key_for_going_to_a">Press Back Key for going to A</string>
+</resources>
